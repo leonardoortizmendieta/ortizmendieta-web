@@ -12,41 +12,24 @@
       "url": "https://www.portafolio.co/economia/gobierno/corte-constitucional-reafirma-competencia-del-arbitraje-en-contratacion-estatal-495750"
     },
     {
-      "fuente": "Consejo de Estado",
-      "tipo": "Sentencia",
-      "radicado": "Sección Tercera",
-      "titulo": "El Consejo de Estado precisa cuándo procede la nulidad absoluta del contrato estatal",
-      "resumen": "La Sección Tercera explicó que, para configurar la causal del numeral 2.º del artículo 44 de la Ley 80 de 1993 (celebración del contrato contra expresa prohibición legal o constitucional), la prohibición debe ser explícita: no toda transgresión a una norma imperativa estructura la causal de nulidad absoluta.",
-      "tema": "Contratación estatal",
-      "url": "https://www.ambitojuridico.com/noticias/administrativo/administrativo-y-contratacion/cuando-se-puede-declarar-la-nulidad-absoluta"
-    },
-    {
-      "fuente": "Superintendencia de Industria y Comercio",
-      "tipo": "Decisión",
-      "radicado": "Delegatura de Protección de la Competencia",
-      "titulo": "La SIC sanciona colusión en licitaciones públicas",
-      "resumen": "La SIC sancionó a las empresas COSEQUÍN Limitada y Seguridad San Martín Limitada, y a sus representantes legales, tras demostrar que se coludieron en numerosos procesos de contratación estatal mediante un esquema coordinado de uniones temporales. Contra la decisión procede recurso de reposición.",
-      "tema": "Competencia · Contratación pública",
-      "url": "https://www.sic.gov.co/content/superindustria-sanciona-dos-empresas-de-seguridad-por-violaci%C3%B3n-la-libre-competencia-en-licitaciones-p%C3%BAblicas-0"
-    },
-    {
       "fuente": "Superintendencia de Industria y Comercio",
       "tipo": "Resolución",
       "radicado": "Resolución 32553 de 2026",
       "fecha": "2026-04-30",
       "titulo": "La SIC sanciona a Corabastos por restringir la libre competencia",
-      "resumen": "Mediante la Resolución 32553 del 30 de abril de 2026, la SIC sancionó a la Corporación de Abastos de Bogotá (Corabastos) y a dos personas vinculadas por infringir la Ley 155 de 1959, al modificar en 2022 su reglamento interno para crear barreras al ingreso de comerciantes. Multas de $260.063.219 a la sociedad y $71.288.570 a las personas naturales, más órdenes de ajuste de su normativa interna.",
+      "resumen": "Mediante la Resolución 32553 del 30 de abril de 2026, la SIC sancionó a la Corporación de Abastos de Bogotá (Corabastos) y a dos personas vinculadas por infringir la Ley 155 de 1959, al modificar en 2022 su reglamento interno para crear barreras al ingreso de comerciantes. Multas de $260.063.219 a la sociedad y $71.288.570 a las personas naturales, más órdenes de ajuste de su normativa interna. La decisión no se encuentra en firme.",
       "tema": "Competencia",
       "url": "https://www.elespectador.com/economia/la-sic-sanciono-a-corabastos-por-limitar-la-libre-competencia-esta-es-la-multa-noticias-hoy/"
     },
     {
       "fuente": "Corte Constitucional",
       "tipo": "Sentencia",
+      "radicado": "T-070 de 2026",
       "fecha": "2026-04-28",
       "titulo": "La Corte Constitucional deja sin efectos la sanción de la SIC contra la Dimayor",
-      "resumen": "El alto tribunal dejó sin efectos una sanción cercana a $8.000 millones que la SIC había impuesto a la Dimayor y a cinco clubes del fútbol profesional colombiano, en una investigación por un presunto sistema que habría limitado el libre traspaso de jugadores entre equipos.",
+      "resumen": "Mediante la Sentencia T-070 de 2026 (M. P. Natalia Ángel Cabo), la Corte amparó el debido proceso de la Dimayor y dejó sin efectos la Resolución 81360 del 23 de diciembre de 2024 de la SIC, que había impuesto una sanción superior a $8.000 millones a la Dimayor y cinco clubes por un presunto sistema anticompetitivo en el traspaso de jugadores. La SIC deberá pronunciarse sobre una prueba pericial negada y rehacer parte del trámite.",
       "tema": "Competencia · Constitucional",
-      "url": "https://www.publimetro.co/deportes/2026/04/28/corte-constitucional-tumbo-millonaria-sancion-contra-dimayor-pero-no-los-libro-del-todo/"
+      "url": "https://www.eltiempo.com/deportes/futbol-colombiano/corte-constitucional-tumbo-una-sancion-de-8-000-millones-contra-la-dimayor-y-cinco-clubes-por-fallas-procesales-3551554"
     }
   ]
 }
