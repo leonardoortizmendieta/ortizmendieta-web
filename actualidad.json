@@ -1,1 +1,52 @@
-{"actualizado":"2026-06-15","decisiones":[{"fuente":"Corte Constitucional","tipo":"Sentencia","radicado":"C-210 de 2026","fecha":"2026-06-11","titulo":"Control de constitucionalidad sobre el régimen de contratación de las APP","resumen":"La Corte declaró la exequibilidad condicionada de varias disposiciones que regulan la estructuración de proyectos de asociación público-privada.","tema":"Contratación estatal","url":"https://www.corteconstitucional.gov.co/"},{"fuente":"Consejo de Estado","tipo":"Sentencia","radicado":"11001-03-26-000-2024-00112-00","fecha":"2026-06-09","titulo":"Equilibrio económico del contrato de concesión y riesgos previsibles","resumen":"La Sección Tercera reiteró los criterios para el restablecimiento del equilibrio económico en contratos de concesión.","tema":"Infraestructura","url":"https://www.consejodeestado.gov.co/"},{"fuente":"Superintendencia de Industria y Comercio","tipo":"Resolución","radicado":"Res. 38421 de 2026","fecha":"2026-06-06","titulo":"Sanción por prácticas restrictivas de la competencia","resumen":"La SIC sancionó a varias empresas por un acuerdo de fijación de precios.","tema":"Competencia","url":"https://www.sic.gov.co/"}]}
+{
+  "actualizado": "2026-06-15",
+  "decisiones": [
+    {
+      "fuente": "Corte Constitucional",
+      "tipo": "Sentencia",
+      "radicado": "SU-142 de 2026",
+      "fecha": "2026-05-21",
+      "titulo": "La Corte Constitucional reafirma la competencia del arbitraje en contratación estatal",
+      "resumen": "Mediante la Sentencia SU-142 del 21 de mayo de 2026, la Corte confirmó que los tribunales arbitrales mantienen competencia para decidir las consecuencias económicas derivadas de modificaciones unilaterales de la Administración en contratos estatales, cuando exista pacto arbitral. La decisión dejó sin efectos una sentencia de unificación de la Sección Tercera del Consejo de Estado que restringía ese alcance.",
+      "tema": "Contratación estatal · Arbitraje",
+      "url": "https://www.portafolio.co/economia/gobierno/corte-constitucional-reafirma-competencia-del-arbitraje-en-contratacion-estatal-495750"
+    },
+    {
+      "fuente": "Consejo de Estado",
+      "tipo": "Sentencia",
+      "radicado": "Sección Tercera",
+      "titulo": "El Consejo de Estado precisa cuándo procede la nulidad absoluta del contrato estatal",
+      "resumen": "La Sección Tercera explicó que, para configurar la causal del numeral 2.º del artículo 44 de la Ley 80 de 1993 (celebración del contrato contra expresa prohibición legal o constitucional), la prohibición debe ser explícita: no toda transgresión a una norma imperativa estructura la causal de nulidad absoluta.",
+      "tema": "Contratación estatal",
+      "url": "https://www.ambitojuridico.com/noticias/administrativo/administrativo-y-contratacion/cuando-se-puede-declarar-la-nulidad-absoluta"
+    },
+    {
+      "fuente": "Superintendencia de Industria y Comercio",
+      "tipo": "Decisión",
+      "radicado": "Delegatura de Protección de la Competencia",
+      "titulo": "La SIC sanciona colusión en licitaciones públicas",
+      "resumen": "La SIC sancionó a las empresas COSEQUÍN Limitada y Seguridad San Martín Limitada, y a sus representantes legales, tras demostrar que se coludieron en numerosos procesos de contratación estatal mediante un esquema coordinado de uniones temporales. Contra la decisión procede recurso de reposición.",
+      "tema": "Competencia · Contratación pública",
+      "url": "https://www.sic.gov.co/content/superindustria-sanciona-dos-empresas-de-seguridad-por-violaci%C3%B3n-la-libre-competencia-en-licitaciones-p%C3%BAblicas-0"
+    },
+    {
+      "fuente": "Superintendencia de Industria y Comercio",
+      "tipo": "Resolución",
+      "radicado": "Resolución 32553 de 2026",
+      "fecha": "2026-04-30",
+      "titulo": "La SIC sanciona a Corabastos por restringir la libre competencia",
+      "resumen": "Mediante la Resolución 32553 del 30 de abril de 2026, la SIC sancionó a la Corporación de Abastos de Bogotá (Corabastos) y a dos personas vinculadas por infringir la Ley 155 de 1959, al modificar en 2022 su reglamento interno para crear barreras al ingreso de comerciantes. Multas de $260.063.219 a la sociedad y $71.288.570 a las personas naturales, más órdenes de ajuste de su normativa interna.",
+      "tema": "Competencia",
+      "url": "https://www.elespectador.com/economia/la-sic-sanciono-a-corabastos-por-limitar-la-libre-competencia-esta-es-la-multa-noticias-hoy/"
+    },
+    {
+      "fuente": "Corte Constitucional",
+      "tipo": "Sentencia",
+      "fecha": "2026-04-28",
+      "titulo": "La Corte Constitucional deja sin efectos la sanción de la SIC contra la Dimayor",
+      "resumen": "El alto tribunal dejó sin efectos una sanción cercana a $8.000 millones que la SIC había impuesto a la Dimayor y a cinco clubes del fútbol profesional colombiano, en una investigación por un presunto sistema que habría limitado el libre traspaso de jugadores entre equipos.",
+      "tema": "Competencia · Constitucional",
+      "url": "https://www.publimetro.co/deportes/2026/04/28/corte-constitucional-tumbo-millonaria-sancion-contra-dimayor-pero-no-los-libro-del-todo/"
+    }
+  ]
+}
