@@ -1,6 +1,16 @@
 {
-  "actualizado": "2026-06-15",
+  "actualizado": "2026-11-15",
   "decisiones": [
+    {
+      "fuente": "Agencia Nacional de Contratación Pública - Colombia Compra Eficiente",
+      "tipo": "Concepto",
+      "radicado": "C-1116 de 2026",
+      "fecha": "2026-08-26",
+      "titulo": "Límites para entregar a un particular la operación de un bien fiscal destinado a un servicio público",
+      "resumen": "Las entidades estatales pueden celebrar contratos típicos o atípicos para que un particular opere un bien fiscal afecto a un servicio público. El contrato es válido si no sustrae el bien del servicio al que está destinado, si la remuneración no afecta la selección objetiva, si no constituye un auxilio prohibido por el artículo 355 de la Constitución y si respeta la destinación específica de los recursos con que se adquirió. Cruzar esos límites puede configurar nulidad absoluta por objeto ilícito, sin importar el nombre que se le dé al contrato.",
+      "tema": "Bienes fiscales, espacio público y comodatos",
+      "url": "https://relatoria.colombiacompra.gov.co/conceptos/c-1116-de-2026/"
+    },
     {
       "fuente": "Corte Constitucional",
       "tipo": "Sentencia",
@@ -30,6 +40,16 @@
       "resumen": "Mediante la Sentencia T-070 de 2026 (M. P. Natalia Ángel Cabo), la Corte amparó el debido proceso de la Dimayor y dejó sin efectos la Resolución 81360 del 23 de diciembre de 2024 de la SIC, que había impuesto una sanción superior a $8.000 millones a la Dimayor y cinco clubes por un presunto sistema anticompetitivo en el traspaso de jugadores. La SIC deberá pronunciarse sobre una prueba pericial negada y rehacer parte del trámite.",
       "tema": "Competencia · Constitucional",
       "url": "https://www.eltiempo.com/deportes/futbol-colombiano/corte-constitucional-tumbo-una-sancion-de-8-000-millones-contra-la-dimayor-y-cinco-clubes-por-fallas-procesales-3551554"
+    },
+    {
+      "fuente": "Superintendencia de Industria y Comercio",
+      "tipo": "Resolución sancionatoria",
+      "radicado": "Resolución 21219 de 2026",
+      "fecha": "2026-03-26",
+      "titulo": "Multa de $2.669 millones a Rappi por infringir el Estatuto del Consumidor",
+      "resumen": "La Superintendencia sancionó a Rappi S.A.S. con una multa de $2.669.044.000 por fallas en la calidad e idoneidad del servicio, incumplimiento de la obligación de entrega, falta de información clara sobre precios, publicidad engañosa, cláusulas abusivas en sus términos y condiciones y ausencia de un mecanismo para hacer seguimiento a las peticiones, quejas y reclamos. Contra la decisión proceden los recursos de reposición y apelación.",
+      "tema": "Protección al consumidor",
+      "url": "https://sedeelectronica.sic.gov.co/publicaciones/boletin-juridico/boletin/superintendencia-sanciona-rappi-por-vulnerar-los-derechos-de-los-consumidores"
     }
   ]
 }
